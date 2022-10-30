@@ -106,7 +106,7 @@ React-Dashboard
 
 ## Author
 
-- [@blaiti](https://github.com/blaiti)
+- [@blaiti](https://github.com/Omniamutanturnihilinterit)
 
 ## License
 
