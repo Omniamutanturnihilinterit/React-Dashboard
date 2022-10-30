@@ -15,7 +15,6 @@ React Dashboard is an admin template dashboard based on React.
 - [Deployment](#deployment)
 - [File Structure](#file-structure)
 - [Author](#author)
-- [License](#license)
 
 ## Tech Stack
 
@@ -106,8 +105,4 @@ React-Dashboard
 
 ## Author
 
-- [@blaiti](https://github.com/Omniamutanturnihilinterit)
-
-## License
-
-[MIT](https://github.com/blaiti/React-Dashboard/blob/main/LICENSE)
+- [@Omniamutanturnihilinterit](https://github.com/Omniamutanturnihilinterit)
